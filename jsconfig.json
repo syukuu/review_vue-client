@@ -1,0 +1,10 @@
+{   
+    // 设置@联想
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+          "@/*": ["src/*"]
+      }
+    },
+    "exclude": ["node_modules", "dist"]
+}
